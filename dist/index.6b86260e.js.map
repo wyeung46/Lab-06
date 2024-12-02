@@ -1,0 +1,1 @@
+{"mappings":"AACA,QAAQ,GAAG,CAAC","sources":["app.ts"],"sourcesContent":["\r\nconsole.log(\"hello from typescript\")\r\n"],"names":[],"version":3,"file":"index.6b86260e.js.map","sourceRoot":"/__parcel_source_root/"}
